@@ -1,4 +1,4 @@
-# UptimeRobot Dwains Dashboard Add-on (more_page)
+# UptimeRobot Lovelace Card
 Status updates in Home Assistant vanuit UptimeRobot
 ##### Created by Léon van der Linden
 ##### v1.0.0
