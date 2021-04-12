@@ -20,17 +20,7 @@ Status updates in Home Assistant vanuit UptimeRobot
 ```
 - Restart Home Assistant
 
-### Installation Add-on
-- Copy the `uptimerobot` folder in to the `dwains-dashboard/addons/more_page` directory.
-- Open your `more_page.yaml` file in `dwains-dashboard/configs` and add the following;
- ```yaml
-     - name: UptimeRobot
-       icon: fas:cloud-upload-alt
-       path: 'dwains-dashboard/addons/more_page/uptimerobot/page.yaml'
-```
-- Reload the theme configuration via Theme Settings
-
-### Replace the following
+### Add code to the uptime-card
  ```yaml
    type: vertical-stack
    cards:
