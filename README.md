@@ -7,11 +7,10 @@ Status updates in Home Assistant vanuit UptimeRobot
 
 ### Prerequisite
 - Make a free [UptimeRobot](https://uptimerobot.com/) account and config what you want to monitor 
-- Make sure you have installed the lovelace [uptime-card](https://github.com/dylandoamaral/uptime-card) and [fontawesome icons](https://github.com/thomasloven/hass-fontawesome)
+- Make sure you have installed the lovelace [uptime-card](https://github.com/dylandoamaral/uptime-card) and [fontawesome icons](https://github.com/thomasloven/hass-fontawesome) this can be done manually or directly via hacs
 
 ### Make Home Assistant intergration 
 - Make the intergration with [UptimeRobot in Home Assistant](https://www.home-assistant.io/integrations/uptimerobot/)
-- Restart Home Assistant
  ```yaml
      # Example configuration.yaml entry
      binary_sensor:
