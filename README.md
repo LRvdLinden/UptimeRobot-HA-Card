@@ -32,6 +32,8 @@ Status updates in Home Assistant vanuit UptimeRobot
 
 ### Replace the following
  ```yaml
+   type: vertical-stack
+   cards:
      - type: 'custom:uptime-card'
        entity: binary_sensor. # <-vul de sensor aan
        icon: 'fas:safari'
