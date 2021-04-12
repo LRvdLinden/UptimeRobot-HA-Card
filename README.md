@@ -9,7 +9,7 @@ UptimeRobot monitoring in Home Assistant Lovelace dashboard
 - Make a free [UptimeRobot](https://uptimerobot.com/) account and config what you want to monitor 
 - Make sure you have installed the lovelace [uptime-card](https://github.com/dylandoamaral/uptime-card) and [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs
 
-### Make Home Assistant intergration 
+### Make Home Assistant integration 
 - Make the integration with [UptimeRobot in Home Assistant](https://www.home-assistant.io/integrations/uptimerobot/)
  ```yaml
      # Example configuration.yaml entry
