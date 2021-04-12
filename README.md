@@ -55,6 +55,7 @@ Status updates in Home Assistant vanuit UptimeRobot
             #action: url
             #url: 'https://'
 ```
+- copy the above code into lovelace uptime-card
 - add the correct `binary_sensor` to monitor
 - fill in the correct `name:`
 - add the `icon:` that you want to have
