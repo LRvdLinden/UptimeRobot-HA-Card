@@ -1,5 +1,5 @@
 # UptimeRobot Lovelace Card
-Status updates in Home Assistant vanuit UptimeRobot
+UptimeRobot monitoring in Home Assistant Lovelace dashboard
 ##### Created by Léon van der Linden
 ##### v1.0.0
 
