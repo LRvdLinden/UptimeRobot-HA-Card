@@ -73,5 +73,6 @@ Status updates in Home Assistant vanuit UptimeRobot
 
 
 ### Result
-![uptimerobot](https://user-images.githubusercontent.com/77990847/114383489-e59e8f80-9b8d-11eb-838f-a3caa9539f61.png)
+![uptimerobot1](https://user-images.githubusercontent.com/77990847/114389788-bbe96680-9b95-11eb-85b0-4d584234f011.png)
+
 
