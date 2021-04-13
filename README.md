@@ -9,6 +9,7 @@
   </a>
 <p align="center">A minimalist card inspired by the <a href="https://github.com/dylandoamaral/uptime-card">Uptime-card</a> to display UptimeRobot binary sensors in a nice way.</p>
 
+[![Github][github]][maintainer]
 
 <p align="center">Created by <a href="https://github.com/LRvdLinden">Léon van der Linden</a> based on <a href="https://github.com/dylandoamaral/uptime-card">uptime-card</a> created by <a href="https://github.com/dylandoamaral/uptime-card">Dylandoamaral</a>
 </p> 
