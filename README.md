@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/commit-activity/m/LRvdLinden/UptimeRobot-HA-Card" />
   </a>
   <a href="https://github.com/LRvdLinden/UptimeRobot-HA-Card">
-    <img src="https://img.shields.io/github/downloads/lrvdlinden/uptimerobot-ha-card/latest/total?color=purple&label=%20release%20Downloads&style=for-the-badge" />
+    <img src="https://img.shields.io/github/downloads/lrvdlinden/uptimerobot-ha-card/latest/total?color=purple&label=%20release%20Downloads" />
   </a>
 </p>
 <p align="center">A minimalist card inspired by the <a href="https://github.com/dylandoamaral/uptime-card">Uptime-card</a> to display UptimeRobot binary sensors in a nice way.</p>
