@@ -21,44 +21,42 @@ UptimeRobot monitoring in Home Assistant Lovelace dashboard
 
 ### Add code to the uptime-card
  ```yaml
-   type: vertical-stack
-   cards:
-     - type: 'custom:uptime-card'
-       entity: binary_sensor. # <-vul de sensor aan
-       icon: 'fas:safari'
-       name: cloud.....nl
-       hours_to_show: 72
-       status_adaptive_color: true
-       average_text: '% uptime'
-         alias:
-           ok: Online
-           ko: Offline
-         color:
-           icon: white
-           ok: '#45C669'
-           ko: '#C6B145'
-           half: '#C66445'
-           none: '#C9C9C9'
-           title: white
-         show:
-           header: true
-           title: true
-           icon: true
-           footer: true
-           status: true
-           timeline: true
-           average: true
-         tooltip:
-            animation: true
-          #tap_action:
-            #action: url
-            #url: 'https://'
+type: 'custom:uptime-card'
+entity: binary_sensor.homeassistant
+icon: 'fas:safari'
+name: Home Assistant
+hours_to_show: 72
+status_adaptive_color: true
+average_text: '% uptime'
+alias:
+  ok: Online
+  ko: Offline
+color:
+  icon: white
+  ok: '#45C669'
+  ko: '#C6B145'
+  half: '#C66445'
+  none: '#C9C9C9'
+  title: white
+show:
+  header: true
+  title: true
+  icon: true
+  footer: true
+  status: true
+  timeline: true
+  average: true
+tooltip:
+  animation: true
+tap_action:
+action: url
+url: 'https://YOUR.NABU.CASA.URL'
 ```
 - copy the above code into lovelace uptime-card
 - add the correct `binary_sensor` to monitor
 - fill in the correct `name:`
 - add the `icon:` that you want to have
-- when you want to use the `tap-action` function, delete `#` and fill in the `url: 'https/'` to the function
+- when you want to use the `tap-action` function, fill in the right `url: 'https/'` to the function
 - when you want to monitor shorter or longer then 3 days, change the value `hours_to_show:`
 - change the `alias:` `ok:` `ko:` name into `online`, `offline`, `up` or `down`
 - copy the above string if you need more cards for more `binary_sensor`
