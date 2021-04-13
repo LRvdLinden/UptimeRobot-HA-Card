@@ -8,11 +8,12 @@
     <img src="https://img.shields.io/github/v/release/LRvdLinden/UptimeRobot-HA-Card" />
   </a>
   <a href="https://github.com/dylandoamaral/uptime-card">
-    <img src="https://img.shields.io/github/commit-activity/m/dylandoamaral/uptime-card" />
+    <img src="https://img.shields.io/github/commit-activity/m/LRvdLinden/UptimeRobot-HA-Card" />
   </a>
-  ##### Created by [Léon van der Linden](https://github.com/LRvdLinden) based on [uptime-card](https://github.com/dylandoamaral/uptime-card) created by [Dylandoamaral](https://github.com/dylandoamaral/uptime-card)
 </p>
 
+##### Created by [Léon van der Linden](https://github.com/LRvdLinden) based on [uptime-card](https://github.com/dylandoamaral/uptime-card) created by [Dylandoamaral](https://github.com/dylandoamaral/uptime-card)
+  
 ![uptimerobot](https://scontent-ams4-1.xx.fbcdn.net/v/t1.6435-9/106796232_3593546114008659_9051489899601087280_n.png?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=sN22nqAP2UIAX9HMuUx&_nc_ht=scontent-ams4-1.xx&oh=940a10cdf67cb438814c35f67c82dd23&oe=6096E7BB)
 
 ### Prerequisite
