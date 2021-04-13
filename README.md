@@ -7,9 +7,6 @@
   <a href="https://github.com/LRvdLinden/UptimeRobot-HA-Card/">
     <img src="https://img.shields.io/github/v/release/LRvdLinden/UptimeRobot-HA-Card" />
   </a>
-  <a href="https://github.com/dylandoamaral/uptime-card">
-    <img src="https://img.shields.io/github/commit-activity/m/LRvdLinden/UptimeRobot-HA-Card" />
-  </a>
 <p align="center">A minimalist card inspired by the <a href="https://github.com/dylandoamaral/uptime-card">Uptime-card</a> to display UptimeRobot binary sensors in a nice way.</p>
 
 
