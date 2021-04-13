@@ -75,4 +75,4 @@ url: 'https://YOUR.NABU.CASA.URL'
 ### Result
 ![uptimerobot1](https://user-images.githubusercontent.com/77990847/114389788-bbe96680-9b95-11eb-85b0-4d584234f011.png)
 
-
+[github]: https://img.shields.io/github/followers/LRvdLinden.svg?style=social
