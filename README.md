@@ -25,11 +25,13 @@
 
 ![uptimerobot](https://scontent-ams4-1.xx.fbcdn.net/v/t1.6435-9/106796232_3593546114008659_9051489899601087280_n.png?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=sN22nqAP2UIAX9HMuUx&_nc_ht=scontent-ams4-1.xx&oh=940a10cdf67cb438814c35f67c82dd23&oe=6096E7BB)
 
-### Prerequisite
+## Prerequisite
+---
 - Make a free [UptimeRobot](https://uptimerobot.com/) account and config what you want to monitor 
 - Make sure you have installed the lovelace [uptime-card](https://github.com/dylandoamaral/uptime-card) and [fontawesome icons](https://github.com/thomasloven/hass-fontawesome). This can be done manually or directly via hacs
 
-### Make Home Assistant integration 
+## Make Home Assistant integration 
+---
 - Make the integration with [UptimeRobot in Home Assistant](https://www.home-assistant.io/integrations/uptimerobot/)
  ```yaml
      # Example configuration.yaml entry
@@ -39,7 +41,8 @@
 ```
 - Restart Home Assistant
 
-### Add code to the uptime-card
+## Add code to the uptime-card
+---
  ```yaml
 type: 'custom:uptime-card'
 entity: binary_sensor.homeassistant
@@ -82,7 +85,8 @@ url: 'https://YOUR.NABU.CASA.URL'
 - copy the above string if you need more cards for more `binary_sensor`
 
 
-### Result
+## Result
+---
 ![uptimerobot1](https://user-images.githubusercontent.com/77990847/114389788-bbe96680-9b95-11eb-85b0-4d584234f011.png)
 
 
