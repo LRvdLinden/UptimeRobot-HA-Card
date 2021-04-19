@@ -77,7 +77,7 @@ tooltip:
   animation: true
 tap_action:
 action: url
-url: 'https://YOUR.NABU.CASA.URL'
+url_path: 'https://YOUR.NABU.CASA.URL'
 ```
 - copy the above code into lovelace uptime-card
 - add the correct `binary_sensor` to monitor
