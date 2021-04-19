@@ -54,6 +54,10 @@ average_text: '% uptime'
 alias:
   ok: Online
   ko: Offline
+blink:
+  effect: fade
+  target: card
+  speed: 1
 color:
   icon: white
   ok: '#45C669'
