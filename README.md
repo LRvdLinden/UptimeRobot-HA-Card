@@ -1,8 +1,8 @@
 <h1 align="center">UptimeRobot Lovelace Card</h1>
 
 <p align="center">
-  <a href="https://github.com/custom-components/hacs">
-    <img src="https://img.shields.io/badge/HACS-Default-orange.svg" />
+    <a href="https://github.com/LRvdLinden/UptimeRobot-HA-Card/commits">
+    <img src="https://img.shields.io/github/last-commit/LRvdLinden/UptimeRobot-HA-Card.svg?style=plasticr" />
   </a>
   <a href="https://github.com/LRvdLinden/UptimeRobot-HA-Card/">
     <img src="https://img.shields.io/github/v/release/LRvdLinden/UptimeRobot-HA-Card" />
